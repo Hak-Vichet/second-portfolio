@@ -11,7 +11,7 @@ const Why = () => {
 
       <motion.h1 variants={fadeLeft} {...motionStep} className='flex sm:items-center gap-2 text-lg md:text-3xl font-medium text-slate-300' >
         <span className='text-sky-400 font-mono' >00. </span>
-        Why people love to work with Raihan?
+        Why people love to work with Vichet?
       </motion.h1>
 
       <motion.div variants={fadeLeft} {...motionStep} className='cols-span-2 mt-10 max-w-[700px] rounded-2xl overflow-hidden' >

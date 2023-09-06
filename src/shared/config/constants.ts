@@ -10,46 +10,55 @@ export const navData = [ "About", "Experience", "Works", "Contact" ]
 // project data
 export const projects : ProjectTypes[] = [
     {
-        title : "Portfolio website",
+        title : "Web3 Trading Bot",
         description : "Personal Website V2 Second iteration of my personal website. Designed and developed with a conscious effort to avoid Personal Website V1 Second iteration of my personal website. and Also I add Blog section and saleing system",
-        tech : [ "Next js 13", "Tailwind CSS", "Express js", "MongoDB" ],
-        code : 'https://github.com/raihanhosen011/developer-portfolio',
-        live : 'https://raihanhosen.com',
-        thumnail : "portfolio-v2.png",
+        tech : [ "React Js", "Material UI", "TypeScript", "Blockchain" ],
+        code : '',
+        live : 'https://web3-tradingbot.vercel.app/',
+        thumnail : "web3.png",
         featured : true
     },
 
     {
-        title : "DG Team",
+        title : "Proadvisor",
         description : "'Dg team' an company management system. I use this system for front end “Next js, Tailwind CSS, Axios, Redux, Redux-thunk, Formik, Yup, react-query” and for Backend “Node js, Express js, MongoDB, Socket.io, webRtc”",
-        tech : [ "Next js", "tailwind CSS", "Redux", "Node js" ],
-        live : 'https://dgteam.vercel.app/',
-        thumnail : "dg-team.png",
+        tech : [ "React js", "tailwind CSS", "Next Js", "Spring Boot", "TypeScript" ],
+        code : 'https://github.com/Hak-Vichet/Proadvisor',
+        live : 'https://proadvisors.vercel.app/',
+        thumnail : "proadvisor.png",
         featured : true
     },
 
     {
-        title : "Airebix",
+        title : "Smart Laundry Dashboard",
         description : "Airebix is an web development agency website. ",
-        tech : [ "Next js", "tailwind CSS", "Redux", "Node js" ],
-        live : 'airebix.com',
-        thumnail : "airebix.png",
+        tech : [ "Figma", "React Js", "Tailwind CSS", "Mongodb", "Express JS" ],
+        live : '',
+        thumnail : "laundry.png",
+    },
+    {
+        title : "PomoDesk | Desktop Application",
+        description : "I clone World Largest E-commerce website Amazon using react js",
+        tech : [ "React js", "Tailwind CSS", "Figma" ],
+        code : '',
+        live : '',
+        thumnail : "pomo.png"
     },
 
     {
         title : "Amazon clone",
         description : "I clone World Largest E-commerce website Amazon using react js",
         tech : [ "React js", "Redux" ],
-        code : 'https://github.com/raihanhosen011/amazon-nw',
+        // code : 'https://github.com/raihanhosen011/amazon-nw',
         live : 'https://amazon-nw.vercel.app/',
         thumnail : "amazon.png"
     },
 
-    {
-        title : "Powermall",
-        description : "This is an largest e-commerce website of bangladesh",
-        tech : [ "next js", "tailwind css", "MERN" ],
-        live : 'https://powermall.com',
-        thumnail : "powermall.png"
-    }
+    // {
+    //     title : "Powermall",
+    //     description : "This is an largest e-commerce website of bangladesh",
+    //     tech : [ "next js", "tailwind css", "MERN" ],
+    //     live : 'https://powermall.com',
+    //     thumnail : "powermall.png"
+    // }
 ]

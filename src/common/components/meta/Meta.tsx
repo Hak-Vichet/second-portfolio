@@ -5,7 +5,7 @@ const Meta = () => {
       <link rel="canonical" href="https://www.raihanhosen.com/"></link>
       <link rel="pingback" href="https://www.raihanhosen.com/"></link>
 
-      <title> Raihan Hosen : Portfolio </title>
+      <title> Hak Vichet : Portfolio </title>
 
       <meta name="description" content='Highly motivated and very passionate Full Stack Developer with three years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Material UI, Node js, Express js, MongoDB' />
       <meta
@@ -14,8 +14,8 @@ const Meta = () => {
       />
       
       <meta name="google-site-verification" content="RbVk4NhK8WzUNl4Ua_2A1LRgctKqe0nlXQxFDM6mwV8" />
-      <meta property="og:site_name" content="Raihan Hosen" />
-      <meta property="og:title" content='Raihan Hosen | Portfolio' />
+      <meta property="og:site_name" content="Hak Vichet" />
+      <meta property="og:title" content='Hak Vichet | Portfolio' />
       <meta property="og:description" content='Web Development Company, Best Web development agency, Web Development Services, Website Development Company, Website Development Services, Website Development Bangladesh, Web Development Bangladesh, Company, Services, Bangladesh, Flexsin, Flexsin Technologies' />
       <meta property="og:url" content='https://raihanhosen.com/' />
       <meta property="og:image" content='https://raihanhosen.com/images/raihanhosen.png' />
