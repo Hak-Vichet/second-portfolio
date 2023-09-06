@@ -39,7 +39,7 @@ const Left = () => {
         </div>
 
         <motion.div variants={fadeUpSpring}  initial="hidden" animate="visible" className='w-fit mx-auto lg:ml-0' >
-           <a href='' download ><Button outlined > Download Resume </Button></a>
+           <a href='/Resume-Hak Vichet.pdf' download ><Button outlined > Download CV </Button></a>
         </motion.div>
     
     </div>
