@@ -13,7 +13,7 @@ export const worked_data: WorkedTypes[] = [
     deadline: "Jan 2020 - March 2023",
     title: "IoT Hardware Development",
     company: "Escott",
-    url: "https://escottvc.com",
+    url: "",
   },
   {
     id: 1,
@@ -26,7 +26,7 @@ export const worked_data: WorkedTypes[] = [
     deadline: "March 2022 - Aug 2023",
     title: "Front end Developer",
     company: "Junior Developer",
-    url: "https://digitalgregg.com",
+    url: "",
   },
   {
     id: 2,
@@ -39,10 +39,23 @@ export const worked_data: WorkedTypes[] = [
     deadline: "Aug 2022 - Sept 2023",
     title: "Full stack developer",
     company: "Sensor Developer",
-    url: "https://fiverr.com/raihanhosen001",
+    url: "",
   },
   {
     id: 3,
+    label: "DynamixD",
+    description: [
+      "I specialize in Data Center maintenance, switch configuration, and network security",
+      "To provide stable network connection to vKirirom Pine Resort and KIT campus.",
+      "Technologies and protocals: TCP/IP, DNS, VLANs, Cisco IOS, python, Python and PowerShell."
+    ],
+    deadline: "April 2023 - present",
+    title: "Network Engineer",
+    company: "DynamixD",
+    url: "",
+  },
+  {
+    id: 4,
     label: "Start Up",
     description: [
       "To build tracking calories app",
@@ -51,6 +64,6 @@ export const worked_data: WorkedTypes[] = [
     deadline: "April 22 - present",
     title: "Mobile App Developer",
     company: "Kenkoo",
-    url: "https://www.upwork.com/freelancers/~010b0f3e278bfac59f",
+    url: "",
   },
 ];
