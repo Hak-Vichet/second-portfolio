@@ -12,7 +12,7 @@ export const projects: ProjectTypes[] = [
   {
     title: "Web3 Trading Bot",
     description:
-      "Personal Website V2 Second iteration of my personal website. Designed and developed with a conscious effort to avoid Personal Website V1 Second iteration of my personal website. and Also I add Blog section and saleing system",
+      "I joined the Web3 team as fronend developer to develop a platform for trading bots that facilitates buying and selling. This platform enables all traders to showcase the performance of their trading bots. The platform employs blockchain technology for payment operations.",
     tech: ["React Js", "Material UI", "TypeScript", "Blockchain"],
     code: "",
     live: "https://web3-tradingbot.vercel.app/",
@@ -23,7 +23,7 @@ export const projects: ProjectTypes[] = [
   {
     title: "Proadvisor",
     description:
-      "'Dg team' an company management system. I use this system for front end “Next js, Tailwind CSS, Axios, Redux, Redux-thunk, Formik, Yup, react-query” and for Backend “Node js, Express js, MongoDB, Socket.io, webRtc”",
+      "I've joined ProAdvisor to work on a platform related to the banking sector in Cambodia. This platform allows every user to access promotions and information from various banks. Additionally, it offers a comparison feature that allows users to view the differences between banks in terms of interest rates and savings options based on different terms.",
     tech: ["React js", "tailwind CSS", "Next Js", "Spring Boot", "TypeScript"],
     code: "https://github.com/Hak-Vichet/Proadvisor",
     live: "https://proadvisors.vercel.app/",
@@ -33,7 +33,8 @@ export const projects: ProjectTypes[] = [
 
   {
     title: "Smart Laundry Dashboard",
-    description: "Airebix is an web development agency website. ",
+    description:
+      "This is a smart laundry dashboard that allows users to access all laundry-related information, including machine status, user schedules, the number of extra requests, and laundry roles.",
     tech: ["Figma", "React Js", "Tailwind CSS", "Mongodb", "Express JS"],
     live: "",
     thumnail: "laundry.png",
