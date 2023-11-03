@@ -19,7 +19,7 @@ const Mail = () => {
           href="hak.vichet23@gmail.com"
           className="text-[15px] text-slate-400 hover:text-sky-400 cursor-pointer transition-all duration-300 hover:translate-y-[-10px] rl"
         >
-          hak.viche23@gamil.com
+          hak.viche19@kit.edu.kh
         </Link>
       </div>
     </motion.div>

@@ -32,13 +32,13 @@ const Left = () => {
           />
           <AnimatedTextCharacter
             className="font-medium text-sm sm:text-[1.6rem] tracking-normal md:text-[2rem] text-slate-400 mt-1 justify-center lg:justify-start"
-            text="Full Stack Developer"
+            text="Front End Developer"
           />
         </div>
 
         <div className="my-5 md:my-8 leading-7 text-slate-400 md:text-lg max-w-3xl">
           <AnimatedTextWord
-            text="Highly motivated and very passionate Full Stack Developer with three years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Material UI, MongoDB"
+            text="Highly motivated and very passionate on Front End Developer with three years of experience in Typescript, React js, Vue js, Firebase, Tailwind CSS, Material UI, RestAPI"
             className="text-sm sm:text-lg justify-center lg:justify-start"
           />
         </div>
@@ -50,7 +50,7 @@ const Left = () => {
         animate="visible"
         className="w-fit mx-auto lg:ml-0"
       >
-        <a href="/mycv.pdf" download>
+        <a href="/Resume-Hak Vichet.pdf" download>
           <Button outlined> Download CV </Button>
         </a>
       </motion.div>
