@@ -32,13 +32,13 @@ const Left = () => {
           />
           <AnimatedTextCharacter
             className="font-medium text-sm sm:text-[1.6rem] tracking-normal md:text-[2rem] text-slate-400 mt-1 justify-center lg:justify-start"
-            text="Front End Developer"
+            text="Full-Stack and DevOps Engineering"
           />
         </div>
 
         <div className="my-5 md:my-8 leading-7 text-slate-400 md:text-lg max-w-3xl">
           <AnimatedTextWord
-            text="Highly motivated and very passionate on Front End Developer with three years of experience in Typescript, React js, Vue js, Firebase, Tailwind CSS, Material UI, RestAPI"
+            text="Passionate about system development with a focus on building scalable, user-friendly solutions. Experienced in creating modern backend APIs and microservices, and driving end-to-end development and deployment as a DevOps engineer. I prioritize system security, performance, and scalability to effectively support large user bases."
             className="text-sm sm:text-lg justify-center lg:justify-start"
           />
         </div>

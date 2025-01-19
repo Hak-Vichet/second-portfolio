@@ -10,11 +10,11 @@ const Left = () => {
 
   // content
   const content = [
-    "Hello, I'm Vchet, a dedicated web developer with a deep passion for crafting captivating online experiences. My journey into the world of web development commenced in 2020, and I've also gained valuable experience in the fields of IoT and networking, which have further enriched my knowledge and confidence.",
-    // "Since then, I've had the incredible opportunity to work in diverse environments, including an advertising agency, a start-up, a large corporation, and a student-led design studio. These experiences have shaped my expertise in crafting accessible and inclusive products and digital experiences. Currently, I'm thrilled to be a part of Upstatement, where I collaborate with a range of clients to bring their visions to life.",
-    "I believe in the power of the web to connect people and create meaningful interactions. With a keen eye for detail and a commitment to user-centric design, I strive to deliver exceptional web solutions that leave a lasting impact.",
-    "Let's collaborate and turn your ideas into remarkable digital experiences!",
-    "Here are a few technologies I have been working with recently:"
+    "Hello, I’m Vichet, a full-stack and DevOps engineer with a passion for building innovative web, mobile, and backend solutions. Since beginning my journey in 2020, I’ve expanded my expertise into microservices, cloud technologies, server configurations, and Linux system administration, making me adept at managing both development and operations seamlessly.",
+
+    "My goal is to craft scalable, efficient, and user-focused digital experiences. Whether it’s developing APIs, architecting microservices, or optimizing server infrastructure, I thrive on solving complex challenges and creating systems that drive impact",
+    "I’m always eager to collaborate and turn ideas into exceptional digital solutions.",
+    "Here are some of the technologies and tools I’ve been working with recently:"
   ]
 
   return (
